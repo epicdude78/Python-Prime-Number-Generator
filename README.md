@@ -2,7 +2,12 @@
 
 A simple python program that generates all the prime numbers from 0 to 1000.
 
-```
-name = 'Joe'
-print('Hello, '+name)
+# HOW TO
+
+Usage goes like this:
+
+```python
+import primegen
+
+my_primes = primegen.gen_primes() #All the primes from 0 to 1000.
 ```
